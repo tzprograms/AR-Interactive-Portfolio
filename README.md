@@ -27,6 +27,3 @@ This project is an immersive Augmented Reality (AR) application built in **Unity
 * **Assets/Scripts**: Contains core C# logic for raycasting and hover animations.
 * **Assets/Prefabs**: Pre-configured 3D icons and the glass-base UI anchor.
 * **ProjectSettings**: Engine-level configurations for XR Plug-in Management and URP.
-
----
-*Developed by Tejas for academic evaluation.*
